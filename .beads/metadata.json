@@ -1,0 +1,8 @@
+{
+  "database": "dolt",
+  "backend": "dolt",
+  "dolt_mode": "server",
+  "dolt_server_port": 3306,
+  "dolt_database": "my_opencode_config",
+  "project_id": "7b21748c-4e97-4de0-973e-53ca4a6ec7b8"
+}
