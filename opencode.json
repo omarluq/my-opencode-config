@@ -12,7 +12,7 @@
 		"@nick-vi/opencode-type-inject",
 		"@spoons-and-mirrors/subtask2@latest"
 	],
-	"instructions": ["./tools/philosophy.md"],
+	"instructions": ["./.opencode/tool/philosophy.md"],
 	"mcp": {
 		"treesitter": {
 			"type": "local",
